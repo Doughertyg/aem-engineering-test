@@ -1,5 +1,5 @@
 import { defaultTheme, Provider} from '@adobe/react-spectrum';
-import NumeralConverer from './components/numeralConverter';
+import NumeralConverer from './components/NumeralConverter';
 import './App.css'
 
 function App() {
